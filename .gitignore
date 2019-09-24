@@ -41,6 +41,7 @@
 *.su
 *.idb
 *.pdb
+*.lock
 
 # Kernel Module Compile Results
 *.mod*
